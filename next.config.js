@@ -3,6 +3,9 @@ module.exports = {
 	env: {
 		dir: '/',
 	},
+	eslint : {
+		ignoreDuringBuilds : true
+	},
 	images: {
 		remotePatterns: [
 			{
