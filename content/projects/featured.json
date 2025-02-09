@@ -1,0 +1,108 @@
+[
+	{
+		"project": "",
+		"url": "",
+		"repo": "Private",
+		"descriptionTitle": "D2C & B2B ecommerce site and blog",
+		"description": "with elegant solutions for a complex codebase and customer journey.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
+			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+		],
+		"stack": [
+			{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
+			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "jquery", 		"name": "jQuery", 		"type": "devicon" },
+			{ "key": "woocommerce", "name": "WooCommerce", 	"type": "devicon" },
+			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{ "key": "google",		"name": "GA4/GTM/EEC", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "P",
+		"url": "",
+		"repo": "Public",
+		"descriptionTitle": "An open source portfolio",
+		"description": "built on Next.js and React. A fast and agile MERN stack single page application.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+		],
+		"stack": [
+			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "ChatApp",
+		"url": "Not provided",
+		"repo": "Private",
+		"descriptionTitle": "Real-time Chat Application",
+		"description": "Implemented features like send, edit, delete, share, and reply to messages.",
+		"images": [],
+		"stack": [
+		  { "key": "mongodb", "name": "MongoDB", "type": "devicon" },
+		  { "key": "express", "name": "Express", "type": "devicon" },
+		  { "key": "react", "name": "React", "type": "devicon" },
+		  { "key": "node", "name": "Node.js", "type": "devicon" },
+		  { "key": "socketio", "name": "Socket.IO", "type": "devicon" },
+		  { "key": "materialui", "name": "Material UI", "type": "devicon" },
+		  { "key": "googleoauth", "name": "Google OAuth", "type": "devicon" }
+		]
+	  },
+	  {
+		"project": "Footcap",
+		"url": "Not provided",
+		"repo": "Private",
+		"descriptionTitle": "Shoe E-commerce DBMS",
+		"description": "Responsive frontend, secure authentication, shopping cart, product listing, and admin panel.",
+		"images": [],
+		"stack": [
+		  { "key": "react", "name": "React", "type": "devicon" },
+		  { "key": "node", "name": "Node.js", "type": "devicon" },
+		  { "key": "mysql", "name": "MySQL", "type": "devicon" },
+		  { "key": "tailwindcss", "name": "Tailwind CSS", "type": "devicon" },
+		  { "key": "daisyui", "name": "DaisyUI", "type": "devicon" },
+		  { "key": "auth", "name": "Authentication", "type": "devicon" }
+		]
+	  },
+	  {
+		"project": "GPT Genius",
+		"url": "Not provided",
+		"repo": "Private",
+		"descriptionTitle": "AI-powered Chatbot",
+		"description": "Contextual interactions, tour generation, and landmark identification using AI.",
+		"images": [],
+		"stack": [
+		  { "key": "nextjs", "name": "Next.js", "type": "devicon" },
+		  { "key": "genaiai", "name": "Gemini GenAI", "type": "devicon" },
+		  { "key": "prisma", "name": "Prisma", "type": "devicon" },
+		  { "key": "postgresql", "name": "PostgreSQL", "type": "devicon" },
+		  { "key": "pinecone", "name": "Pinecone", "type": "devicon" },
+		  { "key": "reactquery", "name": "React Query", "type": "devicon" }
+		]
+	  }
+]
+
+
+
+	  
+
+  
