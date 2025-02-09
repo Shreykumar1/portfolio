@@ -1,5 +1,5 @@
 import FeaturedProject from '../../blocks/projects/featured'
-
+import { useEffect, useState } from 'react';
 
 // Section structure
 import Section 		from '../../structure/section';
@@ -12,6 +12,8 @@ import css 			from '../../../styles/sections/projects/featured.module.scss'
 import content 		from '../../../content/projects/featured.json'
 
 export default function FeaturedProjects() {
+
+
 
 	return (
 		<Section classProp={css.hasBg}>	
