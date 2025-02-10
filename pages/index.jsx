@@ -4,7 +4,7 @@ import About 		from '../components/sections/index/about'
 import Technical 	from '../components/sections/index/technical'
 import Career 		from '../components/sections/index/career'
 import FeaturedProjects	from '../components/sections/projects/featured'
-import { SpeedInsights } from "@vercel/speed-insights/next"
+// import { SpeedInsights } from "@vercel/speed-insights/next"
 
 import Color 		from '../components/utils/page.colors.util'
 
@@ -16,7 +16,7 @@ export default function HomePage() {
 	return (
 		<>
 			<Color colors={colors} />
-			<SpeedInsights />
+			{/* <SpeedInsights /> */}
 			<Hero />
 			{/* <Looking /> */}
 			<FeaturedProjects />
